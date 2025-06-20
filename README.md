@@ -1,26 +1,56 @@
-# 💫 About Me:
-- **Name:** Ayesiga Rooney
-- **Nickname:** Conqueror-Tech-Nerd
-- **Company:** GBARK CODES COMPUTING SERVICES
-- **Profession:** Computer Scientist
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #1e1e1e;
+    color: #ffffff;
+    padding: 20px;
+  }
+  h1 {
+    color: #00bfff; /* Bright blue */
+  }
+  h3 {
+    color: #32cd32; /* Lime green */
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 5px solid #ff4500; /* Orange red */
+    background-color: #2c2c2c;
+  }
+</style>
 
-### 🔭 I’m currently working on:
-Developing innovative software solutions that enhance user experience and streamline operations for businesses.
+<body>
+  <h1>💫 About Me:</h1>
+  <ul>
+    <li><strong>Name:</strong> Ayesiga Rooney</li>
+    <li><strong>Nickname:</strong> Conqueror-Tech-Nerd</li>
+    <li><strong>Company:</strong> GBARK CODES COMPUTING SERVICES</li>
+    <li><strong>Profession:</strong> Computer Scientist</li>
+  </ul>
 
-### 👯 I’m looking to collaborate on:
-Projects related to artificial intelligence, machine learning, and web development to create impactful applications.
+  <h3>🔭 I’m currently working on:</h3>
+  <p>Developing innovative software solutions that enhance user experience and streamline operations for businesses.</p>
 
-### 🤝 I’m looking for help with:
-Expanding my knowledge in cloud computing and cybersecurity to ensure robust and secure software solutions.
+  <h3>👯 I’m looking to collaborate on:</h3>
+  <p>Projects related to artificial intelligence, machine learning, and web development to create impactful applications.</p>
 
-### 🌱 I’m currently learning:
-Advanced algorithms and data structures to improve my problem-solving skills and efficiency in coding.
+  <h3>🤝 I’m looking for help with:</h3>
+  <p>Expanding my knowledge in cloud computing and cybersecurity to ensure robust and secure software solutions.</p>
 
-### 💬 Ask me about:
-Software development best practices, coding challenges, and the latest trends in technology.
+  <h3>🌱 I’m currently learning:</h3>
+  <p>Advanced algorithms and data structures to improve my problem-solving skills and efficiency in coding.</p>
 
-### ⚡ Fun fact:
-I once built a fully functional app in just 24 hours during a hackathon, and it won the best innovation award!
+  <h3>💬 Ask me about:</h3>
+  <p>Software development best practices, coding challenges, and the latest trends in technology.</p>
+
+  <h3>⚡ Fun fact:</h3>
+  <p>I once built a fully functional app in just 24 hours during a hackathon, and it won the best innovation award!</p>
+</body>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AyesigaRooney ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rooneyabooki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesiga-rooney-01791a333) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayesigarooneyug) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayesigarooney8@gmail.com) 
