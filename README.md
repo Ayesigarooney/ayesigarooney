@@ -1,5 +1,35 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi, I'm Ayesiga Rooney (aka Conqueror-Tech-Nerd) 🤖💻
+
+About Me
+I'm a Computer Scientist & Founder of *GBARK CODES COMPUTING SERVICES*, where we deliver innovative tech solutions.
+
+🔭 Currently Working On
+- Developing cutting-edge software applications
+- Exploring new technologies and frameworks
+- Building scalable and efficient systems
+
+👯 Looking to Collaborate On
+- Open-source projects that push the boundaries of tech
+- Innovative startups and entrepreneurial ventures
+- Research initiatives that drive positive change
+
+🤝 Looking for Help With
+- Machine learning and AI applications
+- Cloud computing and DevOps
+- Cybersecurity and data protection
+
+🌱 Currently Learning
+- Advanced algorithms and data structures
+- Web development frameworks (e.g., React, Angular)
+- Natural Language Processing (NLP)
+
+💬 Ask Me About
+- Computer science fundamentals
+- Software development best practices
+- Tech industry trends and insights
+
+⚡ Fun Fact
+When I'm not coding, I'm probably reading about the latest tech breakthroughs or exploring new gadgets! 😄
 
 
 ## 🌐 Socials:
