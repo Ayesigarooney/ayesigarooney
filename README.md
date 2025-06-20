@@ -1,36 +1,26 @@
-Hi, I'm Ayesiga Rooney (aka Conqueror-Tech-Nerd) 🤖💻
+# 💫 About Me:
+- **Name:** Ayesiga Rooney
+- **Nickname:** Conqueror-Tech-Nerd
+- **Company:** GBARK CODES COMPUTING SERVICES
+- **Profession:** Computer Scientist
 
-About Me
-I'm a Computer Scientist & Founder of *GBARK CODES COMPUTING SERVICES*, where we deliver innovative tech solutions.
+### 🔭 I’m currently working on:
+Developing innovative software solutions that enhance user experience and streamline operations for businesses.
 
-🔭 Currently Working On
-- Developing cutting-edge software applications
-- Exploring new technologies and frameworks
-- Building scalable and efficient systems
+### 👯 I’m looking to collaborate on:
+Projects related to artificial intelligence, machine learning, and web development to create impactful applications.
 
-👯 Looking to Collaborate On
-- Open-source projects that push the boundaries of tech
-- Innovative startups and entrepreneurial ventures
-- Research initiatives that drive positive change
+### 🤝 I’m looking for help with:
+Expanding my knowledge in cloud computing and cybersecurity to ensure robust and secure software solutions.
 
-🤝 Looking for Help With
-- Machine learning and AI applications
-- Cloud computing and DevOps
-- Cybersecurity and data protection
+### 🌱 I’m currently learning:
+Advanced algorithms and data structures to improve my problem-solving skills and efficiency in coding.
 
-🌱 Currently Learning
-- Advanced algorithms and data structures
-- Web development frameworks (e.g., React, Angular)
-- Natural Language Processing (NLP)
+### 💬 Ask me about:
+Software development best practices, coding challenges, and the latest trends in technology.
 
-💬 Ask Me About
-- Computer science fundamentals
-- Software development best practices
-- Tech industry trends and insights
-
-⚡ Fun Fact
-When I'm not coding, I'm probably reading about the latest tech breakthroughs or exploring new gadgets! 😄
-
+### ⚡ Fun fact:
+I once built a fully functional app in just 24 hours during a hackathon, and it won the best innovation award!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ayesiga Rooney ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rooneyabooki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayesiga Rooney) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayesigarooneyug) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayesigarooney8@gmail.com) 
