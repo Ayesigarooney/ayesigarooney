@@ -7,32 +7,32 @@
 ---
 
 ### 🔭 I’m currently working on:
-Developing innovative software solutions that enhance user experience and streamline operations for businesses.
+> Developing innovative software solutions that enhance user experience and streamline operations for businesses.
 
 ---
 
 ### 👯 I’m looking to collaborate on:
-Projects related to artificial intelligence, machine learning, and web development to create impactful applications.
+> Projects related to **artificial intelligence**, **machine learning**, and **web development** to create impactful applications.
 
 ---
 
 ### 🤝 I’m looking for help with:
-Expanding my knowledge in cloud computing and cybersecurity to ensure robust and secure software solutions.
+> Expanding my knowledge in **cloud computing** and **cybersecurity** to ensure robust and secure software solutions.
 
 ---
 
 ### 🌱 I’m currently learning:
-Advanced algorithms and data structures to improve my problem-solving skills and efficiency in coding.
+> Advanced **algorithms** and **data structures** to improve my problem-solving skills and efficiency in coding.
 
 ---
 
 ### 💬 Ask me about:
-Software development best practices, coding challenges, and the latest trends in technology.
+> Software development best practices, coding challenges, and the latest trends in technology.
 
 ---
 
 ### ⚡ Fun fact:
-I once built a fully functional app in just 24 hours during a hackathon, and it won the best innovation award!
+> I once built a fully functional app in just **24 hours** during a hackathon, and it won the **best innovation award**!
 
 
 
