@@ -27,7 +27,7 @@
 ---
 
 ### 💬 Ask me about:
-> Software development best practices, coding challenges, and the latest trends in technology.
+> Software development best practices, coding challenges, and the latest trends in technology like online live streaming(both radio and tv).
 
 ---
 
