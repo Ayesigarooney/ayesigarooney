@@ -1,3 +1,31 @@
+```svg
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 24px;
+      fill: #00C7B7;
+      stroke: #00C7B7;
+      stroke-width: 0.5;
+      stroke-dasharray: 200;
+      stroke-dashoffset: 200;
+      animation: typing 4s steps(20) forwards, blink-caret 0.75s step-end infinite;
+    }
+    @keyframes typing {
+      from { stroke-dashoffset: 200; }
+      to { stroke-dashoffset: 0; }
+    }
+    @keyframes blink-caret {
+      from, to { border-right: 2px solid transparent; }
+      50% { border-right: 2px solid #00C7B7; }
+    }
+  </style>
+  <text x="10" y="40" class="text">Ayesiga Rooney</text>
+  <rect x="0" y="0" width="300" height="100" fill="none" />
+</svg>
+```
+
+
 # 💫 About Me:
 - **Name:** Ayesiga Rooney
 - **Nickname:** Conqueror-Tech-Nerd
